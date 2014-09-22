@@ -1,0 +1,26 @@
+body {
+  background: url(images/drop.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#name {
+    font-family: "Open Sans" sans-serif;
+    text-align: center;
+    font-size: 5rem;
+    font-weight: 700;
+    margin-top: 200px;
+    color: antiquewhite;
+    text-shadow: 0 1px 6px rgba(0,0,0,.1);
+    letter-spacing: -1px;
+}
+
+a {
+    color: transparent;
+}
+
+a:visited {
+    color: inherit;
+}
