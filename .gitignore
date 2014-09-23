@@ -1,0 +1,5 @@
+# All webstorm noise
+.idea
+
+#All Mac OSX noise
+.DS_STORE
