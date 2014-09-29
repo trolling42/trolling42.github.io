@@ -34,31 +34,3 @@ a:visited {
     margin-top: 20px;
     font-size: 4rem;
 }
-
-.fa-facebook-square, .fa-facebook{
- color: #3B5998;
-}
-
-.fa-twitter-square, .fa-twitter{
-    color: #55ACEE;
-}
-
-.fa-linkedin-square, .fa-linkedin{
-    color: #007BB6;
-}
-
-.fa-github-square, .fa-github{
-    color: dimgrey;
-}
-
-.fa-tumblr-square, .fa-tumblr{
-    color: #2B4964;
-}
-
-.fa-google-plus-square, .fa-google-plus{
-    color: #C63D2D;
-}
-
-.fa-instagram-square, .fa-instagram{
-    color: #4E433C;
-}
