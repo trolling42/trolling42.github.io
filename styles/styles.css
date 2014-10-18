@@ -6,7 +6,7 @@ body {
   background-size: cover;
 }
 
-#name {
+.name {
     font-family: "Open Sans" sans-serif;
     text-align: center;
     font-size: 5rem;
@@ -27,10 +27,10 @@ a {
 }
 
 a:visited {
-    color: inherit;
+    color: transparent;
 }
 
-#icons {
+.icons {
     margin-top: 20px;
     font-size: 4rem;
 }
