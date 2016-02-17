@@ -1,1 +1,68 @@
-Testing keybase.
+==================================================================
+https://keybase.io/trolling42
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://trolling42.me
+  * I am trolling42 (https://keybase.io/trolling42) on keybase.
+  * I have a public key with fingerprint FD87 ABD9 0A4A 8C43 1517  79B9 ADE8 EC41 EEC8 6896
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010159ac001e51dd535fadc8df5a8b7597f2d8211020a8c8f673a75e0970fc51f1f70a",
+            "fingerprint": "fd87abd90a4a8c43151779b9ade8ec41eec86896",
+            "host": "keybase.io",
+            "key_id": "ade8ec41eec86896",
+            "kid": "010159ac001e51dd535fadc8df5a8b7597f2d8211020a8c8f673a75e0970fc51f1f70a",
+            "uid": "f939f685926e83e84dca9ac1132ca500",
+            "username": "trolling42"
+        },
+        "service": {
+            "hostname": "trolling42.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1455682415,
+    "expire_in": 157680000,
+    "prev": "26d2774174e9f6431c168300e2e3c068e2e40a9c5cd6b600dd97c49471d14eff",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMIiAnicrVJbSBVBGN6TXVQIi+4kBFsY0klmdnd2Z6XADCopKSg0pDzMmZk9bR13
+193V7GIRBl2Iijr4YJYR9ZBEWFJZPZimvdgFKioiih6KEIrEoivVrNRTPTYvP/8/
+3/fN981M3/gsKTfWeWpo/bJMzpPYQM+xOqni5rC7TU66bItcvE3exEcKTzMehIlN
+NpOLZQABRCahAECOIGNIRRZhFDMLEZw0kGlYCsMKhEABBFNs6YZKDMSBaQCLImhB
+ywBEjsuW7aS47/m2EwpZi2GDJJkJiCZYmgoRNAwzaRLGMaca5JxiHZu6IG5wg4gh
+zCVJwItsV8xEkxix9w/8f/ZdNyJnmapp6RiZis6xyrHGKBHqEKoKJQiACBhw3yE1
+XKBD302nRV5NkRvjspjX25RHVxtl+QtTJPq47Plu6FI3LbY2hKEXFEfUcIsXYTfz
+ZOK3SiJpO0zQBKOe+4HtOnIxFEga2pEs1BDSsaJBFJd5g2f7PGFHCGToGIgVncPr
+haSiM8UwNGhoXAQTD0ChjlUAuMJVCnQsqgaISRFlelIHgDHToJqpGZBBjVuWHOWq
+dVyhDYVPkhKagZ1ySFjnc7mx98a60VIsVxo7ZlT0x6TcnAl/ft5wVbbUsmNiYlVO
+1uyGw17/7a61P86vyH05M2/njNIZ6U8lVd+1dZ3Oxfxda/qCgfmP2tq6x3hF33B7
+Wc6n2LW2d1NfnOr48qXsSOulvK1ZP849vHq0LZFfRUa5JYvPDFYu9WrP9iRqXrW3
+D50e7Gqdo6aOd32+8nhSuVS0smCIr3277/6D8M7JquXvl3Y3D1/pamjMjH3iFX59
++rPj+fS8605mXFP+xp3Pat+M71+SuvVu17xZZa/X3FvduyfmNw+iA+3SiYN+afnx
+w/60uz27H568vLepuvptsD3cX1JfegYtKjzYUdnYJJVPiVdOWwAz59a3ZGoqBgrp
+4IXsyQut2NxDBR87P0xa/AtwyUH8
+=SBG6
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/trolling42
+
+==================================================================
